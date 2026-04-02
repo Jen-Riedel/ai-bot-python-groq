@@ -8,6 +8,9 @@ Technik: OpenAI Python SDK, angebunden an Groq (Base URL), Konfiguration ueber '
 - Befehle: 'ende' (beenden), 'neu' (Kontext zuruecksetzen)
 - Kontext-Verlauf (messages) wird mitgefuehrt
 
+## Demo
+![Console Demol](assets/console-demo.png)
+
 ## Setup
 1. Dependencies installieren:
 pip install -r requirements.txt
